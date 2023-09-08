@@ -1,3 +1,9 @@
+https://pasted.to/Pastestop.php?search=&page=5
+https://pasted.to/Pastestop.php?search=&page=4
+https://pasted.to/Pastestop.php?search=&page=3
+https://pasted.to/Pastestop.php?search=&page=2
+https://pasted.to/Pastestop.php?search=&page=1
+
 https://paste.fo/top/1
 https://paste.fo/top/2
 https://paste.fo/top/3
@@ -8,7 +14,6 @@ https://paste.fo/recent/2
 https://paste.fo/recent/3
 https://paste.fo/recent/4
 https://paste.fo/recent/5
-
 
 https://paste.fo/user/donqaze
 https://paste.fo/user/Moxy
@@ -22,8 +27,15 @@ https://paste.fo/user/INFINITY
 https://paste.fo/user/sm0k1ng
 https://paste.fo/user/Futaba
 https://paste.fo/user/mustide
-
-
+https://paste.fo/user/Crackbit1
+https://paste.fo/user/deluxedeal
+https://paste.fo/user/Night
+https://paste.fo/user/Fake
+https://paste.fo/user/Redhat
+https://paste.fo/user/IceMan
+https://paste.fo/user/Dey1337
+https://paste.fo/user/RussiaOnTheTop
+https://paste.fo/user/MultipleCase
 
 https://paste.fo/user/donqaze/top
 https://paste.fo/user/Moxy/top
@@ -37,3 +49,12 @@ https://paste.fo/user/INFINITY/top
 https://paste.fo/user/sm0k1ng/top
 https://paste.fo/user/Futaba/top
 https://paste.fo/user/mustide/top
+https://paste.fo/user/Crackbit1/top
+https://paste.fo/user/deluxedeal/top
+https://paste.fo/user/Night/top
+https://paste.fo/user/Fake/top
+https://paste.fo/user/Redhat/top
+https://paste.fo/user/IceMan/top
+https://paste.fo/user/Dey1337/top
+https://paste.fo/user/RussiaOnTheTop/top
+https://paste.fo/user/MultipleCase/top
