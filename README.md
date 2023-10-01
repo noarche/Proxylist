@@ -13,4 +13,4 @@ Most popular proxy ports to check when scanning ip range:
 
 
 
-[![noarche's GitHub stats]([https://github-readme-stats.vercel.app/api?username=noarche)](https://github.com/noarche/github-readme-stats](https://raw.githubusercontent.com/noarche/ComboScriptPro/main/20231001_063946.jpg))
+[![noarche's GitHub stats](https://github-readme-stats.vercel.app/api?username=noarche)](https://github.com/noarche/github-readme-stats)
